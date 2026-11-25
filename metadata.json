@@ -1,0 +1,6 @@
+{
+  "name": "ExamGate",
+  "description": "Aplikasi browser ujian online yang aman dan terintegrasi langsung dengan Server Soal CBT/LMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

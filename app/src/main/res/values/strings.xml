@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamGate</string>
+    <string name="app_subtitle">Browser Ujian Online Terintegrasi Server Soal</string>
+    <string name="tab_portal">Portal Ujian</string>
+    <string name="tab_history">Riwayat &amp; API</string>
+    <string name="tab_settings">Pengaturan</string>
+    <string name="action_start_exam">Mulai Ujian</string>
+    <string name="action_check_server">Cek &amp; Sinkron Server</string>
+    <string name="action_add_server">Tambah Server Soal</string>
+    <string name="action_exit_exam">Keluar Ujian</string>
+    <string name="label_server_url">URL Server Soal / Endpoint API</string>
+    <string name="label_exam_token">Token Ujian (Opsional)</string>
+    <string name="label_student_id">NIS / NIM / ID Peserta (Opsional)</string>
+    <string name="msg_url_blocked">Navigasi ke domain luar diblokir oleh kebijakan ujian.</string>
+    <string name="msg_anti_screenshot_active">Mode Anti-Screenshot &amp; Kunci Layar Aktif</string>
+</resources>
